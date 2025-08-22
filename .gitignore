@@ -1,0 +1,3 @@
+.venv/
+build/
+code/__pycache__/
